@@ -7,4 +7,4 @@ build/
 
 # clion
 cmake-build-debug/
-.idea
+.idea/
