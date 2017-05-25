@@ -4,3 +4,6 @@
 
 # build files
 build/
+
+# clion
+cmake-build-debug/
